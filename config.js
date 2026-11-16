@@ -4,7 +4,7 @@
  */
 window.PFE_CONFIG = {
   // Paste between the quotes the "Web app URL" of your Apps Script deployment (it ends with /exec).
-  API_URL: "PASTE_YOUR_WEB_APP_URL_HERE",
+  API_URL: "https://script.google.com/macros/s/AKfycbz76QMFudygZ0Yaga22l-TeGD0mMuYs6fQuLpsPl06Gpz8TqasMlvjWKOyhGqX5zHMu/exec",
 
   // Name shown while the page loads (afterwards, the name comes from the Config tab of the Google Sheet).
   TITLE: "PFE Tracker"
